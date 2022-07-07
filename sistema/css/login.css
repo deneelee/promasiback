@@ -1,0 +1,12 @@
+.login {
+	background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)), url('../../../assets/images/043.JPG') center center no-repeat;
+	background-size: cover;
+}
+
+@media (max-width: 767px) {
+    .padd {
+     padding-top: 10%;
+     margin-top: 5%;
+    }
+  }
+  
